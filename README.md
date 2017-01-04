@@ -3,7 +3,7 @@
 
 ####博客地址
 
-http://www.ezlippi.com
+http://www.shiz.tech
 
 ####使用本项目作为博客模板，仅需如下几步：
 
@@ -15,7 +15,7 @@ http://www.ezlippi.com
 
 ####联系方式
 
-联系方式：Email(ouyanglip@gmail.com) 
+联系方式：Email(shiz0310@foxmail.com) 
 
 
 ####使用本项目作模板的博客链接
@@ -28,4 +28,4 @@ http://www.ezlippi.com
 * http://wtaps.github.io 
 * http://maoshu.cc
 * http://x-carto.com/
-* (你的位置)  
+* http://www.shiz.tech 
